@@ -19,6 +19,7 @@ namespace CursoCSharp
                 {"Lendo Dados - Fundamentos", LendoDados.Executar},
                 {"Formatando Número - Fundamentos", FormatandoNumero.Executar},
                 {"Conversões - Fundamentos", Conversoes.Executar},
+                {"Operadores Lógicos - Fundamentos", OperadoresLogicos.Executar},
             });
 
             central.SelecionarEExecutar();
